@@ -1,2 +1,2 @@
 # WEB-PROGRAMMING-PROJECTS
-This project was done contains php,javascript,ajax,json and css.
+This project contains php,javascript,ajax,json and css.
