@@ -1,0 +1,55 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #6f859e;
+}
+
+h1,h2,h3{
+    font-family: Courier, monospace;
+    white-space: pre;
+    background-color: rgba(71, 76, 104, 0.51);
+}
+
+
+#Main_div{
+    text-align: center;
+}
+
+#Rank1Div,#Rank2Div,#Rank3Div,#Rank4Div{
+    display:none;
+    float:left;
+    margin-left:5px;
+    background:#4f678e;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+p{
+     text-align: center;   
+}
+
+form{
+    text-align: center;
+}
+
+#Rank1Country,#Rank2Country,#Rank3Country,#Rank4Country{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    border-style:outset;
+    border-width:0.3em;
+    border-color:#7fcee2;}
+
+.CyclistObjects:hover{
+background-color: rgba(17, 55, 104, 0.5);
+}
+
+td{
+        border-style:inset;
+        border-width:0.15em;
+        border-color:#d8ba11;
+        background:aliceblue;
+}
+
+
